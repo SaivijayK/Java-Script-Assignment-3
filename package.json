@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.1.4",
+    "quixote": "^1.0.1"
   }
 }

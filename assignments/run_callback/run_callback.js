@@ -3,8 +3,6 @@ function RunCallback(a, b, cb) {
     var c = a+b
     return cb(c)
 }
-function cb(a){
-    return a
-}
+
 
 module.exports = RunCallback;
